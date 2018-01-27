@@ -1,2 +1,2 @@
 # tic-tac-toe
-basic tic-tac-toe game in javascript
+Hastily thrown together tic-tac-toe game in javascript using d3
